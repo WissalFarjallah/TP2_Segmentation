@@ -2,7 +2,7 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  -- python>=3.7
+  -- python>=3.5
   - numpy
   - psutil
   - toolz
@@ -11,7 +11,7 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - scikit-learn>=0.19
-  - matplotlib>=2.0
   - scikit-image
+  - scikit-learn
+  - matplotlib>=3.0.1
   - opencv
