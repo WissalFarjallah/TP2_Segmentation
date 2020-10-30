@@ -11,9 +11,8 @@ dependencies:
   - bokeh
   - dask
   - scikit-image
-  - scikit-learn==0.18.1
+  - scikit-learn
   - matplotlib
-  - numpy==1.12
-  - scikit-learn==0.18.1
-  - opencv==3.1
-  - pandas==0.22
+  - numpy
+  - opencv
+  - pandas
