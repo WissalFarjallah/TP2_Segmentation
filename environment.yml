@@ -3,16 +3,8 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python==3.6
-  - psutil
-  - toolz
-  - dill
-  - partd
-  - bokeh
-  - dask
+  - python == 3.6
   - scikit-image
   - scikit-learn
   - matplotlib
-  - numpy
   - opencv
-  - pandas
