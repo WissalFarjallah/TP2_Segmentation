@@ -7,4 +7,3 @@ dependencies:
   - scikit-learn
   - matplotlib
   - opencv
-  - cv2 == 4.4.0
